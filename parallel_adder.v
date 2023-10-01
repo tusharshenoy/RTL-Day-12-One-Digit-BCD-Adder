@@ -1,4 +1,4 @@
-//Verilog Code for Parallel Adder/$ Bit Adder
+//Verilog Code for Parallel Adder/4 Bit Adder
 module parallel_adder(A,B,Cin,S,Cout);
 input [3:0]A,B;
 input Cin;
